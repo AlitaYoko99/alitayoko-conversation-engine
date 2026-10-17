@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "language": "de",
+  "topic": "Lukas und Markus richten einen gebrauchten 3D-Drucker ein, vergleichen das Gerät mit der Bedienungsanleitung und entdecken dabei einen falsch montierten Filamenthalter.",
+  "entry_count": 10,
+  "tone": "natural",
+  "chaos": 10,
+  "seriousness": 50,
+  "participants": [
+    {
+      "id": "p1",
+      "name": "Lukas",
+      "personality": "technisch interessiert, vorsichtig, systematisch"
+    },
+    {
+      "id": "p2",
+      "name": "Markus",
+      "personality": "pragmatisch, neugierig, möchte schnell anfangen"
+    }
+  ],
+  "features": {
+    "narration": true,
+    "typing_indicator": true,
+    "images": true,
+    "links": true
+  },
+  "limits": {
+    "max_narrations": 1,
+    "max_words_per_entry": 30,
+    "max_images": 1,
+    "max_links": 1
+  }
+}

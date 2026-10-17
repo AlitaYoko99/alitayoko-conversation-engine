@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "language": "de",
+  "topic": "Lena und Nora entscheiden, ob sie eine Präsentation heute Abend noch fertigstellen oder den Rest morgen früh erledigen.",
+  "entry_count": 8,
+  "tone": "natural",
+  "chaos": 20,
+  "seriousness": 50,
+  "participants": [
+    {
+      "id": "p1",
+      "name": "Lena",
+      "personality": "direkt, lösungsorientiert"
+    },
+    {
+      "id": "p2",
+      "name": "Nora",
+      "personality": "ruhig, detailorientiert"
+    }
+  ],
+  "features": {
+    "narration": false,
+    "typing_indicator": false,
+    "images": false,
+    "links": false
+  },
+  "limits": {
+    "max_narrations": 0,
+    "max_words_per_entry": 30,
+    "max_images": 0,
+    "max_links": 0
+  }
+}

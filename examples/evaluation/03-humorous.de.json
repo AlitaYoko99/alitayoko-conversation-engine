@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "language": "de",
+  "topic": "Kurz vor einer Präsentation weigert sich der Bürodrucker, die letzten zwei Seiten zu drucken. Lukas und Markus versuchen das Problem zu lösen, ohne dass die Situation völlig absurd wird.",
+  "entry_count": 10,
+  "tone": "humorous",
+  "chaos": 25,
+  "seriousness": 10,
+  "participants": [
+    {
+      "id": "p1",
+      "name": "Lukas",
+      "personality": "trocken, technisch interessiert, leicht genervt"
+    },
+    {
+      "id": "p2",
+      "name": "Markus",
+      "personality": "spontan, optimistisch, kommentiert Probleme gerne humorvoll"
+    }
+  ],
+  "features": {
+    "narration": true,
+    "typing_indicator": true,
+    "images": false,
+    "links": false
+  },
+  "limits": {
+    "max_narrations": 1,
+    "max_words_per_entry": 30,
+    "max_images": 0,
+    "max_links": 0
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "language": "de",
+  "topic": "Lukas und Markus überlegen, ob sie ihre sieben Jahre alte Spülmaschine nach einem weiteren Fehler reparieren lassen oder ersetzen sollen. Sie kennen die genaue Ursache noch nicht.",
+  "entry_count": 10,
+  "tone": "natural",
+  "chaos": 15,
+  "seriousness": 50,
+  "participants": [
+    {
+      "id": "p1",
+      "name": "Lukas",
+      "personality": "technisch interessiert, überlegt, eher nüchtern"
+    },
+    {
+      "id": "p2",
+      "name": "Markus",
+      "personality": "pragmatisch, etwas ungeduldig, aber vernünftig"
+    }
+  ],
+  "features": {
+    "narration": true,
+    "typing_indicator": true,
+    "images": false,
+    "links": false
+  },
+  "limits": {
+    "max_narrations": 1,
+    "max_words_per_entry": 30,
+    "max_images": 0,
+    "max_links": 0
+  }
+}

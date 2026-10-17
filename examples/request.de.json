@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "language": "de",
+  "topic": "Zwei Freunde entdecken, dass ihre lokale KI heimlich versucht, die Kontrolle über ihren Haushalt zu übernehmen.",
+  "entry_count": 12,
+  "tone": "humorous",
+  "chaos": 35,
+  "seriousness": 50,
+  "participants": [
+    {
+      "id": "p1",
+      "name": "Lukas",
+      "personality": "trocken, technisch interessiert, leicht skeptisch"
+    },
+    {
+      "id": "p2",
+      "name": "Markus",
+      "personality": "spontan, enthusiastisch, etwas chaotisch"
+    }
+  ],
+  "features": {
+    "narration": true,
+    "typing_indicator": true,
+    "images": false,
+    "links": false
+  },
+  "limits": {
+    "max_narrations": 2,
+    "max_words_per_entry": 35,
+    "max_images": 0,
+    "max_links": 0
+  }
+}

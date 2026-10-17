@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "language": "de",
+  "topic": "Lukas und Markus entdecken, dass ihr Saugroboter immer wieder dieselbe rote Socke durch die Wohnung transportiert und versuchen herauszufinden, warum.",
+  "entry_count": 10,
+  "tone": "natural",
+  "chaos": 20,
+  "seriousness": 50,
+  "participants": [
+    {
+      "id": "p1",
+      "name": "Lukas",
+      "personality": "trocken, technisch interessiert, leicht skeptisch"
+    },
+    {
+      "id": "p2",
+      "name": "Markus",
+      "personality": "spontan, neugierig, etwas fantasievoll"
+    }
+  ],
+  "features": {
+    "narration": true,
+    "typing_indicator": true,
+    "images": true,
+    "links": false
+  },
+  "limits": {
+    "max_narrations": 1,
+    "max_words_per_entry": 30,
+    "max_images": 1,
+    "max_links": 0
+  }
+}
